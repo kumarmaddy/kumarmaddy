@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarmaddy
 - 👀 I’m interested in Data Science and Engineering
-- 🌱 I’m currently learning Python & SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects in finance that make an impact
 - 📫 How to reach me ... kumar.maddipatla@gmail.com
 
